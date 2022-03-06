@@ -17,4 +17,4 @@ async function returnMessage(myMessage, ms_taken){
 }
 
 // set timeout to 5000ms(5s).
-returnMessage("I hate my life so much :(", 5000);
+returnMessage("Hi", 5000);
